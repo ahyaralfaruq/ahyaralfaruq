@@ -1,2 +1,1 @@
-# Hello, I'm Muhammad Ahyar
-# A full-stack Developer
+# Hello, I'm Muhammad Ahyar, a full-stack Developer based in Indonesia
