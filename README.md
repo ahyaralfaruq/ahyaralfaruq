@@ -26,11 +26,11 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
 
-[<img align="left" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>](https://mochajs.org)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>](https://mochajs.org)
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>](https://github.com)
 
-[<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>](https://git-scm.com)
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
 
@@ -38,6 +38,6 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>](https://releases.jquery.com/)
 
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>](https://releases.jquery.com/)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>](https://codeigniter.com/)
 
 
