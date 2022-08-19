@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Ahyar, a full-stack Developer based in Indonesia
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120)](https://github.com/melanieshi0120/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyaralfaruq)](https://github.com/ahyaralfaruq/github-readme-stats)
 
 ## A little about me :
 
