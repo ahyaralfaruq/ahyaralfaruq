@@ -40,4 +40,5 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>](https://codeigniter.com/)
 
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>](https://heroku.com/)
 
