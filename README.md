@@ -30,4 +30,6 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>](https://github.com)
 
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-original-wordmark.svg" alt="git" width="40" height="40"/> </a>](https://git-scm.com)
+
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>](https://getbootstrap.com)
