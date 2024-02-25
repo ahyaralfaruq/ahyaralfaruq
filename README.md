@@ -6,6 +6,11 @@
 
 - How to reach me **ahyaralfaruq97@gmail.com**
 
+## My Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyaralfaruq&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ahyaralfaruq&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />
+
 ## Language and Tools :
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
